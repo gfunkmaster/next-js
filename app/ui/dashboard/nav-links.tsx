@@ -9,7 +9,7 @@ import { usePathname } from 'next/navigation';
 import clsx from 'clsx';
 import React from 'react';
 
-// Map of links to display in the side navigation.
+// Map of links dsdto display in the side navigation.
 // Depending on the size of the application, this would be stored in a database.
 const links = [
   { name: 'Home', href: '/dashboard', icon: HomeIcon },
